@@ -12,5 +12,7 @@
    <p>Their eyes are mounted on mobile stalks and constantly move about independently of each other. They are considered to be the most complex eyes in the animal kingdom. </p>
    <br>The mantis shrimp has such good eyes that it can perceive both polarized light and color vision outside the normal visual spectrum. </br>
   <p>Source: <a href ="https://simple.wikipedia.org/wiki/Mantis_shrimp">Wikipedia</a></p>
+  <p><strong>spearers</strong></p>
+  <p><strong>smashers</strong></p>
   
 </body>
