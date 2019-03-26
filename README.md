@@ -39,5 +39,16 @@
   <p>Source: <a href ="https://simple.wikipedia.org/wiki/Mantis_shrimp">Wikipedia</a></p>
   <p><strong>spearers</strong></p>
   <p><strong>smashers</strong></p>
+  <ul>
+  <li>red</li>
+  <li>blue</li>
+   <ul>
+     <li>light red</li>
+     <li>light blue</li>
+  </ul>
+  </li>
+  
+  
+
   
 </body>
